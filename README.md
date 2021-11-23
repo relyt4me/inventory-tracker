@@ -1,70 +1,121 @@
-# Getting Started with Create React App
+### Hints
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Create DTR if in a group
 
-## Available Scripts
+- read through full project and do an idea outline of workflow and branches.
 
-In the project directory, you can run:
+Start a project off of the repo and link in README if project asks.
 
-### `npm start`
+# Project Name (Think: Website/Game Name)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+An image of the product logo.  
+![logo](images/image.png)
 
-### `npm test`
+## Table of Contents
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [Brief Description](#brief-description)
+- [How to use](#how-to-use)
+- [Installation](#installation)
+- [Functionality](#functionality)
+- [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
+- [Acknowledgements and Resources](#acknowledgements-and-resources)
 
-### `npm run build`
+<!-- Breif Description -->
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Brief Description
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+(Ex: Uses, Game Rules, Overview)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+> Here I put the what is this and the why.
 
-### `npm run eject`
+## How to use
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+(can call strategy or uses can sometimes be conbined with above)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Here I put the answers to How
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Built With
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- ex: javascript
+- ex: CSS
+- ex: HTML
 
-## Learn More
+## Installation
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Fork this repository:**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+https://github.com/relyt4me/RefactorTractor-FitLit
 
-### Code Splitting
+**Clone your forked repository**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+`git clone` and the copied URL
 
-### Analyzing the Bundle Size
+**Change into the directory and install the project dependencies**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+`cd` into directory and run `npm install` for dependencies
 
-### Making a Progressive Web App
+### How to see the product
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Here should be the info on running index.html or other last step opeining locally
+[Here should also be the link to the GitHub pages if necessary](https://google.com)
 
-### Advanced Configuration
+### Live version location if NEEDED
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+[Live Link](https://google.com)
 
-### Deployment
+## Functionality
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![screenshot](images/image.png)
 
-### `npm run build` fails to minify
+<!-- CONTRIBUTING -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+See the [open issues](https://github.com/relyt4me/RefactorTractor-FitLit/issues) for a list of proposed features (and known issues).
+
+- Fork the Project
+
+- Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+
+- Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+
+- Push to the Branch (`git push origin feature/AmazingFeature`)
+
+- Open a Pull Request
+
+## Authors
+
+👤 **Name**
+
+- Github: [gitHubHandle](link)
+- other link info if needed
+
+👤 **Name**
+
+- Github: [gitHubHandle](link)
+- other link info if needed
+
+## Acknowledgements and Resources
+
+[Original Project Link](link)
+
+Mentor mentions and why or other help outside the group
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/relyt4me/RefactorTractor-FitLit.svg?style=flat-square
+[contributors-url]: https://github.com/relyt4me/RefactorTractor-FitLit/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/relyt4me/RefactorTractor-FitLit.svg?style=flat-square
+[forks-url]: https://github.com/relyt4me/RefactorTractor-FitLit/network/members
+[stars-shield]: https://img.shields.io/github/stars/relyt4me/RefactorTractor-FitLit.svg?style=flat-square
+[stars-url]: https://github.com/relyt4me/RefactorTractor-FitLit/stargazers
+[issues-shield]: https://img.shields.io/github/issues/relyt4me/RefactorTractor-FitLit.svg?style=flat-square
+[issues-url]: https://github.com/relyt4me/RefactorTractor-FitLit/issues
